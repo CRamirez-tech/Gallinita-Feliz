@@ -1,2 +1,2 @@
 # GallinitaFeliz
- Game similar to Peppa Pig for mobile
+ Game based on the Peppa Pig grandfather's, for Android developed on Unity.
